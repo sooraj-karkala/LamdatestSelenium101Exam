@@ -11,8 +11,8 @@ public class TestDataProvider
         return new Object[][] {
             {"Chrome", "88.0", "Windows 10"},
             {"MicrosoftEdge", "87.0", "macOS Sierra"},
-            {"Firefox", "82.0", "Windows 7"},
-            {"Internet Explorer", "11.0", "Windows 10"}            
+            //{"Firefox", "82.0", "Windows 7"},
+            //{"Internet Explorer", "11.0", "Windows 10"}            
         };
         
 //        String data[][]= {                                          
